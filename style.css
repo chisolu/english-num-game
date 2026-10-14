@@ -106,3 +106,19 @@ button:hover{
         opacity: 0;
     }
 }
+
+@media(max-width: 480px){
+    h1{
+        font-size: 22px;
+}
+    button{
+    padding: 8px 18px;
+    font-size: 16px;
+    }
+     #question{
+        font-size: 20px;
+     }
+     label{
+        margin-bottom: 12px;
+     }
+}
